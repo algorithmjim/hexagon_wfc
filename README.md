@@ -19,6 +19,18 @@ pip install -r requirements.txt
 * Click Download Now
 * Download Fantasy Hex Tiles - Version 3
 * Place the file in assets/tileset/
+* Open the link in assets/living_npcs/source.txt
+* Click Download Now
+* Download Lively_NPCs_v3.0.zip
+* Place the files in assets/living_npcs/
+* Follow structure below
+├── assets
+│   ├── living_npcs
+│   │   ├── individal sprites
+│   │   ├── sprite sheets
+│   │   ├── v3_x300.gif
+│   ├── tileset
+│   │   ├── fantasyhextiles_v3.png
 
 ### Executing program
 
