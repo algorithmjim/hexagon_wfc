@@ -24,6 +24,8 @@ pip install -r requirements.txt
 * Download Lively_NPCs_v3.0.zip
 * Place the files in assets/living_npcs/
 * Follow structure below
+
+```
 ├── assets
 │   ├── living_npcs
 │   │   ├── individal sprites
@@ -31,6 +33,7 @@ pip install -r requirements.txt
 │   │   ├── v3_x300.gif
 │   ├── tileset
 │   │   ├── fantasyhextiles_v3.png
+```
 
 ### Executing program
 
