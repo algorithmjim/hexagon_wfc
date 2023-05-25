@@ -1,0 +1,43 @@
+{
+    "0" : {"name" : "Grasslands",
+           "possible_neighbors" : [0, 1, 3, 14],
+           "rarity": 0.65,
+           "terrian_cost" : 1
+    },
+    "1" : {"name" : "Forest_light",
+           "possible_neighbors" : [0, 1, 2, 4, 14],
+           "rarity": 0.75,
+           "terrian_cost" : 1
+    },
+    "2" : {"name" : "Forest_medium",
+           "possible_neighbors" : [1, 2, 4, 14],
+           "rarity": 1,
+           "terrian_cost" : 2
+    },
+    "4" : {"name" : "Forest_hills",
+           "possible_neighbors" : [1, 2],
+           "rarity": 1,
+           "terrian_cost" : 3
+    },
+    "3" : {"name" : "hills",
+           "possible_neighbors" : [0],
+           "rarity": 1,
+           "terrian_cost" : 3
+    },
+    "14" : {"name" : "sand",
+           "possible_neighbors" : [0, 14, 1, 2, 6],
+           "must_touch" : [6],
+           "rarity": 0.02,
+           "terrian_cost" : 3
+    },
+    "6" : {"name" : "shallow_water",
+           "possible_neighbors" : [14, 6, 7],
+           "rarity": 0.02,
+           "terrian_cost" : 3
+    },
+    "7" : {"name" : "deep_water",
+           "possible_neighbors" : [6, 7],
+           "rarity": 1,
+           "terrian_cost" : 3
+    }
+}
