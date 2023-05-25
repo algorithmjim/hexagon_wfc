@@ -1,5 +1,5 @@
 # hexagon_wfc
-Simple wave form collapse terrain generation for a hexagon tileset using only numpy, opencv-python, and Pillow
+Simple wave function collapse terrain generation for a hexagon tileset using only numpy, opencv-python, and Pillow
 
 ## Description
 
