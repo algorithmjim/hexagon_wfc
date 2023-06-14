@@ -42,4 +42,4 @@ python main.py
 ```
 
 ### Demo
-https://www.youtube.com/watch?v=BUjdefCIG3A&t=3s
+https://www.youtube.com/watch?v=BUjdefCIG3A&t
